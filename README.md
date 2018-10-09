@@ -1,5 +1,6 @@
 # [js.ipfs.io](https://js.ipfs.io)
 
+
 This project builds out a static website for js-ipfs, available at [js.ipfs.io](https://js.ipfs.io/), to explain the JavaScript implementation of the IPFS protocol. It uses [gatsbyjs](https://www.gatsbyjs.org/) to generate the HTML pages.
 It provides an informative, public-facing website. The key aspects are the concepts, links, and the provided examples.
 Most of the website content is data-driven, you can check the [data](https://github.com/ipfs/js.ipfs.io/tree/master/src/shared/data) directory to see the sections information bundled as `js` files.
